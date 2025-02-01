@@ -369,9 +369,12 @@ nav ul li a:hover {
     right:0;
     justify-content:space-between;
     width:100vw;
-    background-colour: rgba(200,0,0,0.4);
-    font-size:1.5;
-    font-style:bold;
+    background: rgba(255,0,0,0.5);
     height:30px;
-    text-decoration: none;
+}
+.navv a{
+  font-size:1.5;
+  font-style:bold;
+  text-decoration: none;
+  color: black;
 }
