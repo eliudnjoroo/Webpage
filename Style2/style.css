@@ -373,4 +373,5 @@ nav ul li a:hover {
     font-size:1.5;
     font-style:bold;
     height:30px;
+    text-decoration: none;
 }
