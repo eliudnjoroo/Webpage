@@ -15,7 +15,7 @@ body {
     align-items:center;
     justify-content:space-between;
     padding:20px;
-    margin-top:30px;
+    margin-top:40px;
 }
 .navbar .logo h2{
     font-size: 28px;
@@ -370,10 +370,10 @@ nav ul li a:hover {
     justify-content:space-between;
     width:100vw;
     background: rgba(255,0,0,0.5);
-    height:30px;
+    height:40px;
 }
 .navv a{
-  font-size:2.5;
+  font-size:2.5em;
   font-style:bold;
   text-decoration: none;
   color: black;
