@@ -364,4 +364,8 @@ nav ul li a:hover {
 .navv {
     position: fixed;
     top:0;
+    display:flex;
+    right:0;
+    justify-content:space-between;
+    width:70vw;
 }
