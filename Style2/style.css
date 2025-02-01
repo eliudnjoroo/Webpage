@@ -380,3 +380,6 @@ nav ul li a:hover {
   color: red;
   margin:7px;
 }
+.navv a:hover {
+       color: blue;
+    }
