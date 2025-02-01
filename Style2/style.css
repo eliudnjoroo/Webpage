@@ -369,7 +369,7 @@ nav ul li a:hover {
     right:0;
     justify-content:space-between;
     width:100vw;
-    background: rgba(255,0,0,0.5);
+    background: rgba(0,255,0,0.5);
     height:40px;
     padding-bottom:5px;
 }
@@ -377,6 +377,6 @@ nav ul li a:hover {
   font-size:1.7em;
   font-style:bold;
   text-decoration: none;
-  color: black;
+  color: red;
   margin:7px;
 }
