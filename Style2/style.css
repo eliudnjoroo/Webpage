@@ -15,6 +15,7 @@ body {
     align-items:center;
     justify-content:space-between;
     padding:20px;
+    margin-top:30px;
 }
 .navbar .logo h2{
     font-size: 28px;
@@ -367,5 +368,9 @@ nav ul li a:hover {
     display:flex;
     right:0;
     justify-content:space-between;
-    width:70vw;
+    width:100vw;
+    background-colour: rgba(200,0,0,0.4);
+    font-size:1.5;
+    font-style:bold;
+    height:30px;
 }
