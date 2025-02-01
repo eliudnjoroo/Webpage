@@ -360,3 +360,8 @@ nav ul li a:hover {
     margin-bottom: 50px;
     cursor: pointer;
 }
+
+.navv {
+    position: fixed;
+    top:0;
+}
